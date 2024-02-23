@@ -1,8 +1,8 @@
 {
-  "name": "04-zkapp-browser-ui",
+  "name": "zkapp-snarkyjs",
   "version": "0.1.0",
-  "description": "",
-  "author": "",
+  "description": "This template uses TypeScript.",
+  "author": "arapzz",
   "license": "Apache-2.0",
   "keywords": [
     "mina-zkapp",
@@ -46,5 +46,13 @@
   },
   "peerDependencies": {
     "snarkyjs": "^0.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlipZ3ro/04-zkapp-browser-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FlipZ3ro/04-zkapp-browser-ui/issues"
+  },
+  "homepage": "https://github.com/FlipZ3ro/04-zkapp-browser-ui#readme"
 }
